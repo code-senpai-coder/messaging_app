@@ -15,13 +15,15 @@ def main():
     print("Chose your action: \n")
     print("To signup type signup\nTo login type in login\n")
     action  = input("Enter action: ")
-
+    
     #getting user action info
     if action == "signup":
         sing_up_script.signup()
     elif action == "login":
         login_script.login()
-    
+
+    print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+
     #getting logged user info
     user_logged_info = open("data\logged_user_info.txt", "r+")
     logged_name = user_logged_info.readline()
@@ -35,7 +37,8 @@ def main():
     for text in messages:
         screen += text 
         screen += "\n"
-        
-    print(screen)
 
+    print(screen)
+    
+    time.sleep(10)
 main()
