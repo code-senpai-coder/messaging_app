@@ -8,8 +8,8 @@ def readMessage():
     #remove \n
     for i in range(0,len(messages)):
         messages[i] = messages[i][:-1]
-    #prints messages one by one
+    #adds mesages for return
+    result = []
     for text in messages:
-        print(text)
-    #temporary time w8
-    time.sleep(10)
+        result.append(text)
+    return result
