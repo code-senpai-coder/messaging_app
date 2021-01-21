@@ -1,0 +1,4 @@
+maty: hi	 	2021-01-20 12:15:22.929454
+maty: hihi& C:/Users/admin/AppData/Local/Programs/Python/Python37-32/python.exe "c:/Users/admin/Desktop/local messaging app - Copy/scripts/main.py"	 	2021-01-20 12:16:33.057404
+maty: & C:/Users/admin/AppData/Local/Programs/Python/Python37-32/python.exe "c:/Users/admin/Desktop/local messaging app - Copy/scripts/main.py"	 	2021-01-20 12:16:43.089285
+maty: hello	 	2021-01-20 12:17:15.990565
