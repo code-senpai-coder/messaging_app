@@ -39,6 +39,6 @@ def main():
         screen += "\n"
 
     print(screen)
-    
+    #temporary time to see answer
     time.sleep(10)
 main()
