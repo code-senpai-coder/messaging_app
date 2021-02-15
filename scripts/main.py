@@ -41,4 +41,5 @@ def main():
     print(screen)
     #temporary time to see answer
     time.sleep(10)
-main()
+if __name__ == "__main__":
+    main()
