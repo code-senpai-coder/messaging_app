@@ -1,12 +1,6 @@
 #imoporting scripts
-import sing_up_script
-import clear_messages
-import login_script
-import logout_script
-import message_reader
-import send_message
-import time
-import datetime
+import sing_up_script,clear_messages,login_script,logout_script,message_reader,send_message
+import time,date_time
 
 print("Welcome to the messaging app: \n")
 #Main loop function
